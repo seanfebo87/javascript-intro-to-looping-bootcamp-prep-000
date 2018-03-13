@@ -9,5 +9,5 @@ function forLoop(array) {
 }
 
 function whileLoop(number) {
-  while(var i > 0 )
+  while(number > 0 ) 
 }
