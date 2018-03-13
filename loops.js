@@ -13,3 +13,7 @@ function whileLoop(number) {
   console.log (number--)
   return "done"
 }
+
+function doWhileLoo(array) {
+  
+}
