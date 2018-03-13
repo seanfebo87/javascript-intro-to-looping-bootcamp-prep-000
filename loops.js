@@ -15,5 +15,7 @@ function whileLoop(number) {
 }
 
 function doWhileLoo(array) {
-  do {array.pop()}
+  do {array.pop()
+  while 
+  }
 }
