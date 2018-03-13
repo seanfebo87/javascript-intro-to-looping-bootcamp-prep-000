@@ -7,3 +7,4 @@ function forLoop(array) {
     return array.push("I am ${i} strange loop.")
   }
   }
+}
